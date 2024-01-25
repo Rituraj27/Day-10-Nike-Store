@@ -5,7 +5,7 @@
 It's my day 10 of building 100 project using HTML CSS and JavaScript.
 
 # Live-server
-<a href="https://rituraj27-nike-store.netlify.app/">Rituraj27</a>
+https://rituraj27-nike-store.netlify.app/
 
 # Screenshot
 
